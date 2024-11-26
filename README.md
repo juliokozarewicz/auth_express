@@ -49,3 +49,5 @@ npm run typeorm:win migration:run -- -d server.ts #(windows)
 ```
 
 4. Set up environment variables for hosts, email, database and JWT configuration.
+
+5. Copy the middleware that validates the JWT from 'e_middlewares', paste it into the service you want to authenticate, import it, and apply the middleware to the desired route.
