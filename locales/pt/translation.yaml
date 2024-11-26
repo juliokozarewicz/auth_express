@@ -1,0 +1,47 @@
+# STANDARD
+# ----------------------------------------------------------------------------- 
+# error handler
+bad_request: "Solicitação inválida, por favor, verifique os dados enviados."
+server_error: "Ocorreu um erro, por favor, tente novamente mais tarde."
+
+# rate limiter
+too_many_requests: "Muitas solicitações, por favor, tente novamente mais tarde."
+# ----------------------------------------------------------------------------- 
+
+# others
+activation_email: "Clique no link abaixo para ativar sua conta."
+account_created_successfully: "Conta criada com sucesso, por favor, ative sua conta através do link enviado para seu e-mail."
+email_greeting: "Olá, como você está?"
+email_closing: "Atenciosamente"
+is_required: "Este campo é obrigatório."
+not_valid: "Esse dado não está correto."
+contains_too_many_characters: "Este campo contém muitos caracteres."
+contains_disallowed_characters: "Este campo contém caracteres não permitidos."
+must_be_a_valid_email: "Deve ser um endereço de e-mail válido."
+must_be_at_least_8_characters_long: "Deve ter pelo menos 8 caracteres."
+must_contain_at_least_one_uppercase_letter: "Deve conter pelo menos uma letra maiúscula, uma letra minúscula, um número e um caractere especial."
+must_be_a_valid_link: "Deve ser um link válido."
+resend_successfully:  "Por favor, ative sua conta através do link enviado para seu e-mail."
+email_activate: "Seu email foi ativado com sucesso."
+email_activate_error: "Ocorreu um erro ao ativar seu email, mais informações foram enviadas para sua caixa de mensagens."
+activate_email_error: "Ocorreu um erro ao tentar ativar seu email, por favor refaça o processo."
+change_password_sent_ok: "Altere sua senha clicando no link enviado ao seu email."
+change_password: "Clique no link abaixo para redefinir sua senha."
+change_password_error: "Ocorreu um erro ao tentar alterar sua senha, por favor refaça o processo."
+change_password_ok: "Senha alterada com sucesso, faça login para continuar."
+login_ok: "Login realizado com sucesso."
+login_credentials_failed: "Credenciais inválidas."
+login_acc_error: "Ocorreu um erro ao fazer login, mais informações foram enviadas para seu email."
+account_banned: "Sua conta está desativada pelo sistema, por favor, entre em contato com o suporte."
+account_email_deactivated: "Você possui cadastro com a gente mas seu email está desativado. Você pode ativar seu email alterando sua senha."
+account_user_deactivated: "Sua conta foi desativada pelo usuário, para reativar novamente sua conta basta alterar sua senha. Se você não fez nenhuma alteração na sua conta, por favor, troque sua senha."
+data_received_successfully: "Dados recebidos com sucesso."
+data_not_found: "Nenhum dado foi encontrado."
+update_profile_ok: "Dados do perfil alterados com sucesso."
+update_profile_error: "Ocorreu um erro ao tentar alterar seu perfil, por favor refaça o processo."
+delete_account: "Clique no link abaixo para DELETAR sua conta. Se você não fez nenhuma alteração na sua conta, por favor, troque sua senha."
+delete_account_sent_ok: "Delete sua conta clicando no link enviado para o seu e-mail."
+delete_account_commit: "Sua conta foi desativada com sucesso! Seus dados serão apagados em breve. Você ainda pode reativar sua conta mudando sua senha, dentro desse período."
+email_updated_ok: "Usuário alterado com sucesso! Ative o novo email clicando no link enviado ao novo endereço."
+update_email: "Clique no link abaixo para ALTERAR seu email. Se você não fez nenhuma alteração na sua conta, por favor, troque sua senha."
+update_email_sent_ok: "Altere seu usuário clicando no link enviado para o seu novo e-mail."
